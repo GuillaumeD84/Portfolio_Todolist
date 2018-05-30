@@ -1,5 +1,5 @@
 # Portfolio - Todolist
-[> Page détaillé de l'exercice sur mon site <](neo-explorer.com/portfolio/todolist "Page de l'exercice sur mon site")
+[> Page détaillé de l'exercice sur mon site <](http://neo-explorer.com/portfolio/todolist "Page de l'exercice sur mon site")
 
 Cette todo list écrite en PHP exploite les superglobales $_GET et $_POST et l'utilisation des sessions pour gérer et stocker une liste de tâches.
 
